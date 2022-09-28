@@ -1,7 +1,5 @@
 ## Olá! Me chamo Gustavo Macedo ✌!
 
-- 🎓 Estudando programação Front End e Back End pela Generation Brasil
-
 <div align="center">
   <a href="https://github.com/gustavomlima9393">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomlima9393&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
